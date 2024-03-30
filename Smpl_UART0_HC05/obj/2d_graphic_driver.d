@@ -1,0 +1,11 @@
+.\obj\2d_graphic_driver.o: 2D_Graphic_Driver.c
+.\obj\2d_graphic_driver.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\obj\2d_graphic_driver.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\obj\2d_graphic_driver.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h
+.\obj\2d_graphic_driver.o: ..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.h
+.\obj\2d_graphic_driver.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\2d_graphic_driver.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h
+.\obj\2d_graphic_driver.o: ..\..\..\Include\System\SysInfra.h
+.\obj\2d_graphic_driver.o: ..\..\..\Include\System\ModuleID.h
+.\obj\2d_graphic_driver.o: ..\..\..\Include\NUC1xx-LB_002\LCD_Driver.h
+.\obj\2d_graphic_driver.o: 2D_Graphic_Driver.h
